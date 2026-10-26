@@ -1,0 +1,11 @@
+
+# All the stuff generated using scripts/create_proj.tcl
+fpga/vivado_proj/
+
+# logs and temp files
+.Xil/
+*.jou
+*.log
+
+# ESP build
+firmware/build/
